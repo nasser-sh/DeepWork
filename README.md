@@ -61,7 +61,7 @@ Confine shallow work to a window. Typically, 4 hours is the maximum you can spen
 
 ## Schedule Every Minute of your Day
 
-We spend much of our day on auto-pilot, not giving much thought to what we do with our time. This is a problem. Divide your day into 30 minute intervals., groups of which are "blocks". They can be "task blocks" or "distraction blocks".
+We spend much of our day on auto-pilot, not giving much thought to what we do with our time. This is a problem. Divide your day into 30 minute intervals, groups of which are "blocks". They can be "task blocks" or "distraction blocks".
 
 If interrupted, take a few minutes to create a revised schedule for the time that remains in the day. The goal is not to stick to it at all costs, but to maintain, at all times, a thoughtful say in what you're doing with your time going forward, even if those decisions get re-worked again and again as the day unfolds.
 
